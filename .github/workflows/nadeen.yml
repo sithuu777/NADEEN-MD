@@ -1,4 +1,4 @@
-name: NADEEN-MD DEPLOY
+name: SITHU-MD DEPLOY
 
 on:
   workflow_dispatch:
