@@ -1,4 +1,4 @@
-## SITHU-MD👨‍💻 - A Javascript WhatsApp User Bot
+## SITHU-MD🌹 - A Javascript WhatsApp User Bot
 NADEEN-POORNA has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️
 ### `3.0.0 Version`
 😎 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
