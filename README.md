@@ -6,7 +6,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 <br>
 <p align="center">  
   <a href="https://files.catbox.moe/79bgkk.jpg">
-    <img alt="nadeen-md" height="300" src="https://files.catbox.moe/4ro0yh.jpg">
+    <img alt="nadeen-md" height="300" src="https://files.catbox.moe/ppgxxy.png">
     
   
   </a>
@@ -19,7 +19,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1001&color=5513F7&width=435&lines=SITHU+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
 </p>
 
-## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/NADEENbotx/NADEEN-MD)***
+## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/SITHUbotx/SITHU-MD)***
 
   
 <p align="center"><img src="https://profile-counter.glitch.me/{Nadeenpoorna-app}/count.svg" alt="Nadeenpoorna-app :: Visitor's Count" /></p>
@@ -37,8 +37,8 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
   
 ### DEVELOPER👨🏻‍💻
 **GET In Touch with The Owner**
-- [**On YouTube**](https://youtube.com/@NADEEN-MD)
-- [**Via WhatsApp**](https://wa.me/94711451319)
+- [**On YouTube**](https://youtube.com/@SITHU-MD)
+- [**Via WhatsApp**](https://wa.me/94725944112)
 
 ### SPECIAL THANKS ❤ 
 > SHENU BABY
@@ -46,11 +46,11 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 ### VOICE ARTIST 🎙
 > SITHU BABE
 
-##`👨🏻‍💻 ©DARK CYBER MATRIX TEAM 2025 👨🏻‍💻`
+##`👨🏻‍💻 ©DARK CYBER HACKING ZONE 2025 👨🏻‍💻`
 
 
 ### CONTRIBUTIONS 
-> Contributions to Nadeen-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+> Contributions to Sithu-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 <h3 align="center">FREE DEPLOY ⤵</h3>
 <p align="center">
@@ -126,4 +126,4 @@ jobs:
 ```
 ## License
 
-The nadeen-md is made available under the [Apache license](https://github.com/NADEENbotz/NADEEN-MD/blob/main/LICENSE). 
+The Sithu-md is made available under the [Apache license](https://github.com/NADEENbotz/NADEEN-MD/blob/main/LICENSE). 
