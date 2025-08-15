@@ -1,4 +1,4 @@
-## NADEEN-MD👨‍💻 - A Javascript WhatsApp User Bot
+## SITHU-MD👨‍💻 - A Javascript WhatsApp User Bot
 NADEEN-POORNA has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️
 ### `3.0.0 Version`
 😎 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
@@ -6,7 +6,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 <br>
 <p align="center">  
   <a href="https://files.catbox.moe/79bgkk.jpg">
-    <img alt="nadeen-md" height="300" src="https://files.catbox.moe/79bgkk.jpg">
+    <img alt="nadeen-md" height="300" src="https://files.catbox.moe/4ro0yh.jpg">
     
   
   </a>
@@ -41,10 +41,10 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 - [**Via WhatsApp**](https://wa.me/94711451319)
 
 ### SPECIAL THANKS ❤ 
-> Themi Sadas
+> SHENU BABY
 
 ### VOICE ARTIST 🎙
-> Deshika Abhimani
+> SITHU BABE
 
 ##`👨🏻‍💻 ©DARK CYBER MATRIX TEAM 2025 👨🏻‍💻`
 
